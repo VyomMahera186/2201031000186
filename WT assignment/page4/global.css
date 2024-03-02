@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-fuchsia: #e718f9;
+  --color-deepskyblue: #14b4f8;
+  --color-mediumslateblue: #6a47d0;
+
+  /* Paddings */
+  --padding-xl: 20px;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+}

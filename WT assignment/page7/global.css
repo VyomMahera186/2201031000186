@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-royalblue: #3454c7;
+  --color-black: #000;
+
+  /* Paddings */
+  --padding-10xs: 3px;
+  --padding-3xs: 10px;
+  --padding-base: 16px;
+}

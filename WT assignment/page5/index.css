@@ -1,0 +1,480 @@
+.image-25-icon,
+.start-your {
+  align-self: stretch;
+  position: relative;
+}
+.image-25-icon {
+  margin-right: -2px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.start-your {
+  margin: 0;
+  font-size: inherit;
+  font-style: italic;
+  font-weight: 900;
+  font-family: inherit;
+}
+.start-your-wrapper {
+  height: 35px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-3xs);
+  box-sizing: border-box;
+}
+.audiophile {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-style: italic;
+  font-weight: 900;
+  font-family: inherit;
+}
+.audiophile-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 30px 0 23px;
+}
+.journey-here {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-style: italic;
+  font-weight: 900;
+  font-family: inherit;
+}
+.frame-group {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-size: var(--font-size-25xl);
+}
+.android-large-5-inner,
+.frame-group,
+.frame-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px 0;
+}
+.android-large-5-inner {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 40px var(--padding-mid) var(--padding-xl);
+  text-align: left;
+  font-size: 40px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.image-8-icon,
+.image-9-icon {
+  position: relative;
+  object-fit: cover;
+}
+.image-9-icon {
+  height: 56px;
+  width: 74px;
+}
+.image-8-icon {
+  align-self: stretch;
+  flex: 1;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.audio-frame {
+  align-self: stretch;
+  width: 71px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.frame-wrapper3,
+.image-9-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+}
+.image-9-parent {
+  align-self: stretch;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.frame-wrapper3 {
+  width: 205px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+  box-sizing: border-box;
+}
+.earphones,
+.headphones {
+  position: relative;
+}
+.earphones-frame,
+.frame-parent2,
+.frame-wrapper2 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.earphones-frame {
+  flex-direction: row;
+  gap: 0 13px;
+}
+.frame-parent2,
+.frame-wrapper2 {
+  flex: 1;
+  flex-direction: column;
+}
+.frame-wrapper2 {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-8xs);
+}
+.image-11-icon {
+  width: 83px;
+  height: 83px;
+  position: relative;
+  object-fit: cover;
+}
+.wireless {
+  position: relative;
+  padding-left: var(--padding-6xs);
+}
+.cables-label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.image-12-icon {
+  height: 71px;
+  width: 113px;
+  position: relative;
+  object-fit: cover;
+}
+.earpads-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xs) 0 0;
+}
+.cables {
+  width: 100px;
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-left: var(--padding-xl);
+}
+.cases-label {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 2px 0;
+}
+.frame-parent1,
+.frame-wrapper1,
+.speaker-frame {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.speaker-frame {
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 0 13px 0 0;
+  gap: 0 14px;
+}
+.frame-parent1,
+.frame-wrapper1 {
+  flex: 1;
+  align-items: flex-start;
+}
+.frame-parent1 {
+  flex-direction: column;
+  gap: 5px 0;
+}
+.frame-wrapper1 {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-9xs);
+}
+.adapters,
+.headphones1 {
+  position: relative;
+  z-index: 1;
+}
+.speakers-view-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 15px;
+}
+.image-14-icon {
+  height: 97px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.speakers {
+  position: absolute;
+  margin: 0 !important;
+  bottom: -9px;
+  left: 8px;
+  z-index: 1;
+}
+.frame-wrapper4,
+.image-14-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-14-parent {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+}
+.frame-wrapper4 {
+  flex: 1;
+  flex-direction: column;
+  padding: 0 0 9px;
+}
+.image-15-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cases {
+  position: relative;
+  font-size: var(--font-size-lgi);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 1;
+}
+.wireless-frame {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 96px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent3,
+.headphones-adapters-frame-inner {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-parent3 {
+  flex: 1;
+  align-items: flex-end;
+  gap: 0 7px;
+}
+.headphones-adapters-frame-inner {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-8xs);
+}
+.frame-div,
+.frame-wrapper,
+.headphones-adapters-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.headphones-adapters-frame {
+  padding: 0 8px 0 0;
+  gap: 2px 0;
+}
+.frame-div,
+.frame-wrapper {
+  flex: 1;
+}
+.frame-wrapper {
+  padding: 3px 0 0;
+}
+.image-10-icon {
+  width: 83px;
+  height: 83px;
+  object-fit: cover;
+}
+.ear-buds,
+.image-10-icon {
+  position: relative;
+}
+.earphone-frame,
+.product-on-sale-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.earphone-frame {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-11xs) 0 19px;
+}
+.image-13-icon {
+  width: 83px;
+  height: 83px;
+  position: relative;
+  object-fit: cover;
+}
+.ear-pads {
+  position: relative;
+  z-index: 1;
+  margin-top: -2px;
+}
+.ear-buds-frame,
+.ear-buds-frame-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ear-buds-frame-wrapper {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-6xs);
+}
+.ear-tips {
+  width: 93px;
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.headphones-adapters-frame1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px 0;
+}
+.android-large-5-child,
+.frame-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-container {
+  flex: 1;
+  gap: 0 7px;
+}
+.android-large-5-child {
+  height: 352px;
+  padding: 0 15px var(--padding-9xs) var(--padding-11xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-lgi);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.products-on-sale {
+  margin: 0;
+  height: 31px;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  font-style: italic;
+  font-weight: 700;
+  font-family: inherit;
+}
+.image-16-icon,
+.view-all {
+  position: relative;
+  z-index: 1;
+}
+.view-all {
+  font-size: 28px;
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.image-16-icon {
+  height: 33px;
+  width: 33px;
+  object-fit: cover;
+}
+.view-all-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 6px;
+}
+.products-on-sale-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: 3px 0;
+}
+.android-large-5,
+.sale-frame {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.sale-frame {
+  align-self: stretch;
+  height: 69px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-mid);
+  text-align: left;
+  font-size: 33px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.android-large-5 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 0 var(--padding-3xs);
+  gap: 31px 0;
+}

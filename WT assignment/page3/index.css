@@ -1,0 +1,331 @@
+.image-25-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.sign-up {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-20xl);
+  font-weight: 400;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  z-index: 1;
+}
+.text-sign-up {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+}
+.password-frame-child {
+  height: 49px;
+  width: 317px;
+  position: relative;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #000;
+  display: none;
+}
+.email {
+  position: relative;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.password-frame {
+  align-self: stretch;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #000;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) var(--padding-smi) var(--padding-3xs);
+}
+.password-frame-item {
+  align-self: stretch;
+  width: 317px;
+  position: relative;
+  background-color: var(--color-black);
+  display: none;
+}
+.password {
+  position: relative;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.password-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 0 0;
+}
+.image-21-icon {
+  height: 49px;
+  width: 47px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.email-frame,
+.image-frame,
+.password-frame1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.password-frame1 {
+  background-color: var(--color-black);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 0 0 var(--padding-smi);
+}
+.email-frame,
+.image-frame {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 18px 0;
+}
+.image-frame {
+  align-items: center;
+  gap: 10px 0;
+}
+.frame-o-r-child {
+  height: 49px;
+  width: 317px;
+  position: relative;
+  background-color: var(--color-black);
+  display: none;
+}
+.confirm-password {
+  position: relative;
+  font-size: 23px;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.frame-o-r {
+  flex: 1;
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 11px var(--padding-9xs) var(--padding-3xs);
+}
+.image-21-icon1 {
+  height: 49px;
+  width: 47px;
+  position: relative;
+  object-fit: cover;
+  min-height: 49px;
+  z-index: 1;
+  margin-left: -44px;
+}
+.new-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sign-up-text-child {
+  height: 49px;
+  width: 317px;
+  position: relative;
+  background-color: var(--color-navy);
+  display: none;
+}
+.sign-up1 {
+  position: relative;
+  font-size: var(--font-size-20xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.sign-up-text {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-11xs) 82px 0 90px;
+  background-color: var(--color-navy);
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.already-have-an,
+.login {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.login {
+  color: var(--color-navy);
+}
+.already-have-account-frame {
+  flex-direction: row;
+  gap: 0 2px;
+}
+.already-have-account-frame,
+.f-r-a-m-e,
+.rectangle-image {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-image {
+  margin: 0;
+  flex: 1;
+  flex-direction: column;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 23px 0;
+}
+.f-r-a-m-e {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 21px 44px 18px;
+}
+.image-22-icon {
+  height: 94px;
+  width: 155px;
+  position: relative;
+  object-fit: cover;
+}
+.or {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.frameimage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 16px;
+}
+.image-22-icon1 {
+  height: 82px;
+  width: 152px;
+  position: relative;
+  object-fit: cover;
+}
+.login-with-google-frame {
+  margin-left: -4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 0 34px;
+  text-align: left;
+  font-size: 30px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.imagesloginwithfacebookandgoog-child {
+  height: 49px;
+  width: 317px;
+  position: relative;
+  display: none;
+  min-height: 49px;
+}
+.image-23-icon {
+  height: 49px;
+  width: 65px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.login-with-facebook {
+  position: relative;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.imagesloginwithfacebookandgoog {
+  cursor: pointer;
+  border: 0;
+  padding: 0 var(--padding-9xs) 0 var(--padding-11xs);
+  background-color: #316ff6;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.imagesloginwithfacebookandgoog-item {
+  height: 49px;
+  width: 317px;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  display: none;
+}
+.image-24-icon {
+  height: 34px;
+  width: 36px;
+  object-fit: cover;
+}
+.image-24-icon,
+.login-with-google {
+  position: relative;
+  z-index: 1;
+}
+.imagesloginwithfacebookandgoog1 {
+  align-self: stretch;
+  background-color: var(--color-whitesmoke);
+  flex-direction: row;
+  padding: 6px 36px 9px 17px;
+  gap: 0 14px;
+}
+.imagesloginwithfacebookandgoog1,
+.loginwithfacebookframe,
+.loginwithgoogleframe {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.loginwithgoogleframe {
+  flex: 1;
+  flex-direction: column;
+  gap: 39px 0;
+}
+.loginwithfacebookframe {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 24px 0 19px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.android-large-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 52px;
+  box-sizing: border-box;
+  gap: 2px 0;
+}
